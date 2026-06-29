@@ -3,3 +3,8 @@ v sfksdfklǘ
 
 
 zfgzfgdf
+
+## Description
+closes #42
+
+Validates + in email addresses.
